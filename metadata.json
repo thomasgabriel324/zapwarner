@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Remix: ZapWarmer",
+  "description": "Sistema automático de maturação de números de WhatsApp via Evolution API. Cria conversas infinitas entre chips para aumentar o score e evitar banimentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
